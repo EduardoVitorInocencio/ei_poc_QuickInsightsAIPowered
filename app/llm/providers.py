@@ -18,7 +18,7 @@ PROVIDER_DEFAULTS = {
     "openai": {
         "base_url": None,
         "api_key_env": "OPENAI_API_KEY",
-        "model": "gpt-5.5",
+        "model": "gpt-5.4-nano",
     },
     "ollama": {
         "base_url": "http://localhost:11434/v1/",
