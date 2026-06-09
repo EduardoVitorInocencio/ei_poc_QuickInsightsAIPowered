@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.venv-broken/
+.test-venv/
+.uv-cache/
+.uv-python/
+
+# Application artifacts
+*.db
+app/data/output/*.pptx
+app/data/output/*.md
+.env
